@@ -1,3 +1,3 @@
 # Lab 1
 
-no cheaping because I will catch you
+this is a learning repo to practice github git commands via terminal input
